@@ -7,5 +7,4 @@ $pip instal python
  How to run this code
 ```python
 $python Encrypt_and_decrypt
-print s
 ```
